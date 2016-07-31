@@ -1,0 +1,4 @@
+                           Refugio           Municipio           Direccion Distancia(km)
+3                    ESC. PRIMARIA          ROSAMORADA            ROSARITO         34.72
+1 PRE-ESCOLAR "SALVADOR CERVANTES" SANTA MARIA DEL ORO SANTA MARIA DEL ORO         36.62
+2                    ESC. PRIMARIA          ROSAMORADA   SAN JUAN BAUTISTA         37.64
